@@ -1,1 +1,3 @@
-Ive learned some basic git commits such as git commits, pull request etc
+What I have learned from this course
+
+In this course, I learned the basics of Git and GitHub, including how to initialize a repository, add and commit files, and push changes to a remote repository. I also learned how to troubleshoot common errors and manage version control effectively.
